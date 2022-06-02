@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">7.1F</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="Places_API">AIzaSyCas4-MHc-LfqKyizHC3urMjkywt7JQZDI</string>
+</resources>
